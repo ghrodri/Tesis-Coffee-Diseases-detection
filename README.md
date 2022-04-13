@@ -4,6 +4,6 @@ This repository present a architecture that solve the classification diseases pr
 <li>The Jetson folder present the code which is used to run the architecture on the Jetson Xavier NX
 <li>To train the model with your own data yo need to intall this library
 <ul>Tensorflow
-Cuda developer toolkit
-Sklearn
-Open-CV</ul>
+,Cuda developer toolkit
+,Sklearn
+,Open-CV</ul>
